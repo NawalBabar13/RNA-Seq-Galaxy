@@ -1,9 +1,13 @@
 # Reference-Based RNA-Seq Analysis — Galaxy Tutorial
 
 > **Course:** BI-436 — Special Topics in Bioinformatics
+
 > **Student:** Nawal Babar
+
 > **Platform:** Galaxy (usegalaxy.org / usegalaxy.eu)
+
 > **Organism:** *Drosophila melanogaster* (dm6)
+
 > **Tutorial:** [GTN — Reference-based RNA-Seq data analysis](https://training.galaxyproject.org/training-material/topics/transcriptomics/tutorials/ref-based/tutorial.html)
 
 [![Galaxy](https://img.shields.io/badge/Platform-Galaxy-blue)](https://usegalaxy.org)
