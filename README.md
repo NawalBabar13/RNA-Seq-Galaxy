@@ -110,7 +110,7 @@ Raw reads were quality-checked with **Falco** and reports combined with **MultiQ
 
 Trimmed reads were mapped to the *D. melanogaster* **dm6** reference genome using **RNA STAR** — a splice-aware aligner essential for eukaryotic RNA-Seq because reads frequently span exon-exon junctions caused by splicing.
 
-- Both samples achieved **>80% unique alignment rate** ✅
+- Both samples achieved **>80% unique alignment rate** 
 - Low multi-mapping rate (<10%) confirms good data quality
 
 ### Step 3 — Strand Coverage Visualisation (pyGenomeTracks)
@@ -208,12 +208,12 @@ Normalised expression of significantly DE genes across all 7 samples, hierarchic
 
 | Metric | Result |
 |--------|--------|
-| Mapping rate | >80% unique alignment to dm6 ✅ |
+| Mapping rate | >80% unique alignment to dm6  |
 | Library strandness | Unstranded (confirmed by RSeQC) |
-| PCA separation | Clear treated vs untreated separation on PC1 (48% variance) ✅ |
-| Pasilla gene (FBgn0261552) | Confirmed **downregulated** in treated samples ✅ |
-| p-value distribution | Spike near 0 — genuine DE signal confirmed ✅ |
-| Heatmap clustering | Treated and untreated samples cluster separately ✅ |
+| PCA separation | Clear treated vs untreated separation on PC1 (48% variance)  |
+| Pasilla gene (FBgn0261552) | Confirmed **downregulated** in treated samples |
+| p-value distribution | Spike near 0 — genuine DE signal confirmed  |
+| Heatmap clustering | Treated and untreated samples cluster separately  |
 
 ---
 
